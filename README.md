@@ -6,3 +6,7 @@
   2. Explore the data with Pivot Tables - Leveraging Pivot Tables to effectively uncover critical time-series trends and product-level performance.
   3. Build a dynamic dashboard - Designing a dynamic dashboard using Pivot Charts and interactive elements to provide a clear visual representation of key metrics. 
 - [Download Excel Workbook](https://github.com/LyKenn-DS/Excel-Projects/blob/c171b45f37f23122728159de36cf6251b70d6198/Coffee%20Shop%20Sales.xlsx)
+
+![image](https://github.com/user-attachments/assets/8fd2913e-59e4-4cc0-8e20-34ad1d807fb3)
+
+
