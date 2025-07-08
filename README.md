@@ -1,12 +1,25 @@
 # Excel Data Analysis 
 
-## Project 1: Coffee Shop Sales Analysis & Dashboard
+## Project 1: Global Electronics Retailer - Tailored Interactive Report
+<p float="left">
+  <img width="49%" height="auto" src="https://github.com/user-attachments/assets/2defa88c-f9a8-4343-a352-90444ea553a1" />
+  <img width="49%" height="auto" src="https://github.com/user-attachments/assets/2b5d9056-bb29-4bc1-a9c1-0fc81980bd0f" /> 
+</p>
+
+**Overview:** This project showcases the work that I have done to help consolidating the data management needs to conduct an exploratory analysis.  
+
+The objectives include: 
+1. Profile & prepare the data
+2. Build a relational data model
+3. Explore & Enrich the data with important business metrics
+4. Build an interactive report that the management team can use to explore performance.  
+
+## Project 2: Coffee Shop Sales Analysis & Dashboard
 **Overview:** This project showcases a comprehensive Excel-based data analysis workflow, transforming raw coffee shop transaction data into actionable insights.
   1. Prepare the data - Performing initial data profiling, quality checks, and feature engineering for enhanced analysis.
   2. Explore the data with Pivot Tables - Leveraging Pivot Tables to effectively uncover critical time-series trends and product-level performance.
   3. Build a dynamic dashboard - Designing a dynamic dashboard using Pivot Charts and interactive elements to provide a clear visual representation of key metrics. 
 - [Download Excel Workbook](https://github.com/LyKenn-DS/Excel-Projects/blob/c171b45f37f23122728159de36cf6251b70d6198/Coffee%20Shop%20Sales.xlsx)
 
-![image](https://github.com/user-attachments/assets/8fd2913e-59e4-4cc0-8e20-34ad1d807fb3)
 
 
