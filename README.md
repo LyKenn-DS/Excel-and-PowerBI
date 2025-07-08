@@ -12,7 +12,9 @@ The objectives include:
 1. Profile & prepare the data
 2. Build a relational data model
 3. Explore & Enrich the data with important business metrics
-4. Build an interactive report that the management team can use to explore performance.  
+4. Build an interactive report that the management team can use to explore performance
+
+- [Download Excel Workbook](https://github.com/LyKenn-DS/Excel-Projects/blob/5136c8c8709794c1a34f57bdfec9d283c5e10ab2/SalesInteractiveReport.xlsx)  
 
 ## Project 2: Coffee Shop Sales Analysis & Dashboard
 **Overview:** This project showcases a comprehensive Excel-based data analysis workflow, transforming raw coffee shop transaction data into actionable insights.
