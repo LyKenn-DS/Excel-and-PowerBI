@@ -8,11 +8,11 @@
 
 **Overview:** This project showcases the work that I have done to help consolidate the data management needs to conduct an exploratory analysis.  
 
-In this project, I began by conducting data profiling to understand the data sources from how it was generated to how they might be related to one another. Check if the data is unbiased, complete, and representative. Also, building a relational data model in Excel / PowerBI (as shown) by connecting the data tables can very well facilitate analysis downstream using Pivot Table.  
+In this project, I began by **conducting data profiling to understand the data sources** from how it was generated to how they might be related to one another. Check if the data is unbiased, complete, and representative. Also, building a relational data model in Excel / PowerBI (as shown) by connecting the data tables can very well facilitate analysis downstream using Pivot Table.  
 
-I then enriched the model by adding calculated measures such as total orders, revenue, average order value, and delivery time to track business metrics. As every business has a small number of important financial ratios to consider, it's worthwhile to do a bit of research to see what they are for the business industry. 
+I then enriched the model by **adding calculated measures** such as **total orders**, **revenue**, **average order value**, and **delivery time** to track business metrics. As every business has a small number of important financial ratios to consider, it's worthwhile to do a bit of research to see what they are for the business industry. 
 
-Lastly, an interactive dashboard was designed to fulfill the management's request for an interactive report that could be used to explore performance. A well-designed dashboard often serves a distinct purpose for a distinct audience and provides a clear, intuitive user experience based on its defined purpose.    
+Lastly, an **interactive dashboard** was designed to fulfill the management's request for an interactive report that could be used to explore performance. A well-designed dashboard often serves a distinct purpose for a distinct audience and provides a clear, intuitive user experience based on its defined purpose.    
 
 - [Download Excel Workbook](https://github.com/LyKenn-DS/Excel-Projects/blob/5136c8c8709794c1a34f57bdfec9d283c5e10ab2/SalesInteractiveReport.xlsx)  
 
